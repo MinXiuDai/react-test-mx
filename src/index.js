@@ -1,12 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
 import * as serviceWorker from './serviceWorker';
+import TakeShot from './componment/Take a shot/index'
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <TakeShot />
+    {/* <App/> */}
   </React.StrictMode>,
   document.getElementById('root')
 );

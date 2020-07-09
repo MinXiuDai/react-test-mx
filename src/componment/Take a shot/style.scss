@@ -1,0 +1,86 @@
+*{margin: 0;padding:0;}
+.body{
+    width: 100%;
+    height: 1024px;
+    background-color: pink;
+    margin: 0;
+    padding-top: 100px;
+     background-image: url('https:timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1593410484945&di=4723353bc56e04e90c86a15176d317a6&imgtype=0&src=http%3A%2F%2Fi2.hdslb.com%2Fbfs%2Farchive%2F8bb969dfa1500bb72c0384b58a9b4a795e2d54c6.jpg');
+    position: relative;
+}
+.container{
+    width: 300px;
+    height: 500px;
+    background-color:rgb(192, 218, 224);
+    border-radius: 70px;
+    margin: auto;   
+    padding-top: 20px;
+    box-shadow:8px 8px 13px 8px rgba(100, 100, 93, 0.5);
+    background-image: url('https:timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1593431024252&di=09e3fb506a9984ba197975ebbddd8e6b&imgtype=0&src=http%3A%2F%2Fhbimg.b0.upaiyun.com%2F44a67328ab16a337521b65bc70787fb57787b4a54a645-zcTNsV_fw658');
+}
+
+.liname{
+    margin-top: 250px;
+    display: block;
+    font-size: 19px;
+    text-align: center;
+    text-shadow:5px 2px 6px rgb(88, 7, 80);
+    display:none;
+    color: rgb(161, 25, 116);
+    z-index: 999;
+}
+.liname:hover{
+    color: rgb(221, 219, 85);
+}
+.a{
+    color: rgba(163, 85, 85,0.1);
+    width: 30px;
+    text-align: center;
+    margin: 20px auto;
+    display: block;
+    text-decoration:none;
+    font-size: 16px;
+    font-weight: 600;
+    border-radius: 7px;
+     box-shadow:2px 5px 3px 2px rgba(79, 111, 121, 0.9);
+}
+
+//  .h4{
+//      position: absolute;
+//      left: 43%;
+//      top: 18%;
+//      color: rgb(180, 74, 132);
+//      margin:20px auto;
+//      border-radius: 3px;
+//      width: 30px;
+//       box-shadow:5px 2px 6px 2px rgba(104, 104, 99, 0.9);
+//  }
+
+input{
+    position: absolute;
+    left: 41%;
+    top: 23%;
+    text-align: center;
+    outline: none;
+    display: block;
+    margin:  auto;
+     padding: 8px 3px;
+    border:1px solid rgba(138, 144, 240,0.1);
+    border-radius: 7px;
+     box-shadow:2px 5px 3px 2px rgba(114, 114, 104, 0.9);
+    background-color: rgba(201, 173, 201,0.1);
+    width: 80px;
+    color: rgba(32, 61, 105,0.1);
+    font-size: 18px;
+}
+
+
+
+
+
+
+
+
+
+
+
