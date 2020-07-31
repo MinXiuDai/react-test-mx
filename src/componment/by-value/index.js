@@ -5,12 +5,9 @@ export  const  ByValue = ( {title , value}) => {
 
 
      return(
-        
-            <div>
+         <div>
             <div>{title}</div>
             <div>{value}</div>
-            </div>
-        
-    )
-    
+        </div>
+    ) 
 }

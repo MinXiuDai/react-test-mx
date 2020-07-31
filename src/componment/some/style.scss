@@ -1,9 +1,9 @@
-
+@import 'styles.scss';
 .dxx{
     float: left;
     width: 31px;
     border-radius: 4px;
-    background-color: rgb(161, 154, 154);
+    background-color:$back-color ;
     box-shadow:2px 5px 3px 2px rgb(233, 189, 194);
 
 }
